@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.db655b45.js";const l='{"title":"Linux","description":"","frontmatter":{"title":"Linux","sidebar":false},"relativePath":"extra/linux/centos.md","lastUpdated":1628414698018}',r={};function s(n,o,c,i,p,d){return a(),e("div")}var f=t(r,[["render",s]]);export{l as __pageData,f as default};

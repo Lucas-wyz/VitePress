@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.db655b45.js";const _='{"title":"","description":"","frontmatter":{"sidebar":false},"relativePath":"extra/linux/ubuntu.md","lastUpdated":1628414698018}',r={};function s(n,o,c,p,d,i){return a(),e("div")}var l=t(r,[["render",s]]);export{_ as __pageData,l as default};
